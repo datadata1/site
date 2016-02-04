@@ -18,7 +18,15 @@ body {
 	margin-left:30px;
 }
 
+.mtborder{
+	border:3px solid mediumturquoise;
+}
+
 
 #didyouknow {
 	color:red;
+}
+
+#main1 {
+	background:white;
 }
