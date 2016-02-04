@@ -1,0 +1,24 @@
+/* this is my stylesheet!*/
+body {
+	color:deepskyblue;
+	background:yellow;
+}
+
+.pizza {
+	color:purple;
+}
+
+.title {
+	color:pink;
+}
+
+.right {float:right;}
+
+.marginleft {
+	margin-left:30px;
+}
+
+
+#didyouknow {
+	color:red;
+}
